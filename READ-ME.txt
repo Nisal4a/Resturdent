@@ -1,0 +1,4 @@
+# This is a simple restaurant landing page designed in bootstrap 5.
+# Made by Shankar Chapagain and Sandip Gurung.
+# Special thanks to Abshek Bhattrai(front end designer) for helping in codding.
+# Asset and codes used for youtube,w3 school, bootstrap , and by the developers and designers. 
